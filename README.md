@@ -14,7 +14,6 @@ Construir uma base sólida em programação, aprendendo a resolver problemas atr
 
 Todo exercício será analisado seguindo o modelo:
 
-```text
 ENTRADAS
 
 PROCESSAMENTO
@@ -23,3 +22,54 @@ DECISÕES
 
 SAÍDA
 
+Somente após essa análise o exercício será implementado em Python.
+
+---
+
+# ✅ Conteúdos Estudados
+
+## Módulo 01 - Fundamentos
+
+- Entrada
+- Processamento
+- Saída
+- Variáveis
+- Tipos de Dados
+- Nomes Descritivos
+- snake_case
+
+---
+
+# 📝 Diário de Aprendizado
+
+## Dia 01
+
+Aprendizados:
+
+- O que é um algoritmo
+- Como identificar entradas
+- Como identificar processamento
+- Como identificar decisões
+- Como identificar saídas
+- O que é uma variável
+- O que é um boolean
+- Boas práticas de nomenclatura
+
+---
+
+# 🔮 Próximos Passos
+
+- Estruturas Condicionais
+- Operadores Lógicos
+- Estruturas de Repetição
+- Vetores
+- Funções
+- Programação Orientada a Objetos
+
+---
+
+# 👨‍🏫 Autor
+
+Thomaz Jefferson Oliveira de Aquino
+
+Projeto desenvolvido durante a Mentoria de Lógica de Programação.
